@@ -8,7 +8,7 @@ Information Science Engineering Student | AI & ML Enthusiast | Backend Developer
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Computer+Vision;Backend+Development;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Computer+Vision;Backend+Development" />
 
 </p>
 
