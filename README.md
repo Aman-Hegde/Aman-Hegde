@@ -67,33 +67,11 @@ Information Science Engineering Student | AI & ML Enthusiast | Backend Developer
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aman-Hegde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Hegde&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Aman-Hegde&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aman-Hegde&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
