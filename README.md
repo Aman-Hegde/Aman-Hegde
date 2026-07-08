@@ -17,16 +17,11 @@ Information Science Engineering Student | AI & ML Enthusiast | Backend Developer
 ## 👨‍💻 About Me
 
 - 🎓 Information Science Engineering Student at **NMAMIT**
-
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-
-- 💻 Building AI-powered Backend Applications using FastAPI
-
-- 🚀 Exploring Computer Vision, NLP and Generative AI
-
-- 🌱 Currently learning **MERN Stack** and Backend Engineering
-
-- 📫 Reach me at **amanhegde2020@gmail.com**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Computer Vision**
+- 💻 Building AI-powered backend applications using **FastAPI**
+- 🌱 Currently learning **MERN Stack** and scalable backend development
+- 📚 Interested in **Deep Learning, NLP, and Generative AI**
+- 📫 Reach me at **amanhegde2020@gmail.com****
 
 ---
 
@@ -67,7 +62,59 @@ Information Science Engineering Student | AI & ML Enthusiast | Backend Developer
 ### Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aman-Hegde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Hegde&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Aman-Hegde&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aman-Hegde&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aman-Hegde&theme=tokyo-night)](https://github.com/Aman-Hegde)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Aman-Hegde">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:amanhegde2020@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 </p>
