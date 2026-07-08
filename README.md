@@ -20,15 +20,13 @@ Information Science Engineering Student | AI & ML Enthusiast | Backend Developer
 
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 
-- 🌍 Working on AI-based Land Encroachment Detection using Deep Learning
-
 - 💻 Building AI-powered Backend Applications using FastAPI
 
 - 🚀 Exploring Computer Vision, NLP and Generative AI
 
 - 🌱 Currently learning **MERN Stack** and Backend Engineering
 
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **amanhegde2020@gmail.com**
 
 ---
 
